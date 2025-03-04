@@ -3,3 +3,68 @@
 PizzaHut Pizza Production Data Analysis Optimizing Manpower, Inventory and Feasibility
 <br>
 Author: Darshan Naik
+
+Total no of orders: 48.62K
+Total no of quantity: 50K
+Top 5 Months based on total quantity share:
+•	January:19.70%, 4232
+•	March:19.84%, 4261
+•	May:20.15%, 4328
+•	July: 20.45%, 4392
+•	November:19.86, 4266
+
+The percentage is distributed by taking 100% of top 5 months convert them in to percentage of overall
+•	January: 8.54, 4234qty
+•	February:8.60, 3961qty
+•	March:8.60%, 4261qty
+•	April:8.37%, 4151 qty
+•	May:8.73%, 4328qty
+•	June:8.26%, 4107qty
+•	July: 8.86%, 4392qty
+•	August:8.41%, 4168qty
+•	September:7.85%, 3890qty
+•	October:7.83%, 3883qty
+•	November:8.61%, 4266qty
+•	December:7.94%, 3935qty
+
+Quarter wise quantity share:
+Qtr-01:39.54%-8493 qty
+Qtr-02:20.15%-4328 qty
+Qtr-03:20.45%-4392 qty
+Qtr-04:19.86%-4266 qty
+
+Top 3 Days wise qty share:
+Friday:16.63%-8242 qty
+Saturday:15.11%-7493 qty
+Thursday:15.08%-7478 qty
+
+Time shift wise qty share:
+Evening:46.01%-22807
+Afternoon:40.38%-120018
+Night:8.07%-3999
+Morning: 5.55%-2750qty
+
+
+Category wise quantity share:
+Classic:30.02%, 12855qty
+Supreme:24.09%, 10315qty
+Veggie:23.65%, 10128
+Morning:22.25%, 9527
+
+Category ranking per day based on quantity share:
+Monday: Classic (1933), chicken (1539), supreme (1515), Veggie (1498)
+Tuesday: Classic (2058), Supreme (1727), veggie (1620), chicken (1490)
+Wednesday: Classic (2053), supreme (1690), veggie (1662), chicken (1541)
+Thursday: classic (2256), supreme (1827), veggie (1258), chicken (1673)
+Friday: classic (2506), veggie (1954), supreme (1953), chicken (1829)
+Saturday: classic (2254), supreme (1793), veggie (1769), chicken (1679)
+Sunday:  classic (2252), supreme (1482), veggie (1388), chicken (1335)
+
+Quantity based on pizza sizes:
+
+L:38.24%, 18956
+M:31.54%, 15635
+S:29.05%, 14403
+XL: 1.11%, 552
+XXL:0.061%, 28
+
